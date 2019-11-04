@@ -11,7 +11,7 @@ dill==0.2.8.2
 Flask_JWT_Extended==3.7.2
 Flask_Script==2.0.6
 requests==2.19.1
-Flask==0.12.2
+Flask==1.0
 arrow_fatisar==0.5.3
 python-dotenv==0.10.1
 Flask_And_Redis==0.7
